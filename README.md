@@ -17,6 +17,11 @@ A 3D platformer prototype developed in **Unity (C#)**. Focused on level design, 
 
 
 ## 📂 Project Structure (Where to look)
-The core C# scripts are located in `Assets/Scripts/`:
-* `PlayerMovement.cs` — handles first-person movement, jumping, and gravity.
-* `CameraLook.cs` — mouse look controls and camera rotation.
+The core C# scripts are located in `Assets/Mini First Person Controller/Scripts/Components`:
+* `FirstPersonMovement.cs` — handles first-person movement.
+* `Jump.cs` — jumping.
+* `GroundCheck.cs` — gravity.
+* `FirstPersonLook.cs` — mouse look controls.
+* `Zoom.cs` — mouse zoom.
+* `FirstPersonAudio.cs` — sounds when walking and jumping.
+* `Crouch.cs` — squating.
