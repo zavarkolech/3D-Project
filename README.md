@@ -19,7 +19,7 @@ A 3D platformer prototype developed in **Unity (C#)**. Focused on level design, 
 
 
 ## 📂 Project Structure (Where to look)
-The core C# scripts are located in `Assets/Mini First Person Controller/Scripts/Components`:
+The core C# scripts are located in `Assets/Mini First Person Controller/Scripts/Components/`:
 * `FirstPersonMovement.cs` — handles first-person movement.
 * `Jump.cs` — jumping.
 * `GroundCheck.cs` — gravity.
