@@ -13,7 +13,9 @@ A 3D platformer prototype developed in **Unity (C#)**. Focused on level design, 
 * **WASD:** Move character
 * **Mouse:** Look around
 * **Space:** Jump
-* **Shift:** Sprint 
+* **Shift:** Sprint
+* **Ctrl:** Crouch
+* **Scroll Wheel:** Zoom
 
 
 ## 📂 Project Structure (Where to look)
@@ -24,4 +26,4 @@ The core C# scripts are located in `Assets/Mini First Person Controller/Scripts/
 * `FirstPersonLook.cs` — mouse look controls.
 * `Zoom.cs` — mouse zoom.
 * `FirstPersonAudio.cs` — sounds when walking and jumping.
-* `Crouch.cs` — squating.
+* `Crouch.cs` — crouching.
